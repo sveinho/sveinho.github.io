@@ -1,11 +1,6 @@
 # sveinho.github.io &nbsp;&nbsp;&nbsp;&nbsp;&#128072;
 
-<a id="installation"></a>
-## Installation
-
-To install the package do...
-
-[Go to Installation](#installation)
+skrive noe før lenka [&rarr;CESSDA](https://sveinho.github.io/cessda.html) og et lite etterord her omtrent
 
 
 
