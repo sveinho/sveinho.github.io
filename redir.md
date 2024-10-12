@@ -1,2 +1,4 @@
-[InternetShortcut]
-URL=https://www.elementene.no
+---
+layout: forward
+target: https://example.com
+---
