@@ -1,4 +1,4 @@
-# sveinho.github.io &nbsp;&nbsp;&nbsp;&nbsp;&#128072;
+# sveinho.github.io 
 
 skrive noe før lenka [&rarr;CESSDA](https://sveinho.github.io/cessda.html) og et lite etterord her omtrent
 
