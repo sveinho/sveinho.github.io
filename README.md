@@ -1,1 +1,1 @@
-# sveinho.github.io &nbsp;&nbsp;&nbsp;&nbsp;&#128068;
+# sveinho.github.io &nbsp;&nbsp;&nbsp;&nbsp;&#128072;
